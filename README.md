@@ -48,15 +48,6 @@ A **production-ready, open-source Cloud FinOps Platform** that helps companies:
 - **Docker Desktop** - [Download](https://www.docker.com/products/docker-desktop)
 - **Git** - [Download](https://git-scm.com/downloads)
 
-### One-Command Setup (Recommended)
-
-```bash
-# Start everything (database, backend, frontend)
-./scripts/start-dev.sh
-
-# Stop everything when done
-./scripts/stop-dev.sh
-```
 
 **That's it!** The script will:
 - Start PostgreSQL in Docker
